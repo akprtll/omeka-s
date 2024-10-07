@@ -74,7 +74,7 @@ Omeka uses the following libraries, among others:
 
 ## Development Standards
 
-Omeka development adheres to the [Laminas Coding Style Guide](https://docs.laminas.dev/laminas-coding-standard/v2/coding-style-guide/) and uses the [git-flow](http://nvie.com/posts/a-successful-git-branching-model/) branching model and the [Semantic Versioning 2.0.0](https:/semver.org/spec/v2.0.0.html) version scheme.
+Omeka development adheres to the [Laminas Coding Style Guide](https://docs.laminas.dev/laminas-coding-standard/v2/coding-style-guide/) and uses the [git-flow](http://nvie.com/posts/a-successful-git-branching-model/) branching model and the [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html) version scheme.
 
 See the [developer documentation](https://omeka.org/s/docs/developer/) for more information.
 
